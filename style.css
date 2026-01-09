@@ -1,0 +1,93 @@
+*{
+    margin : 0;
+    padding: 0;
+   
+}
+#navbarSupportedContent{
+    background-color:);
+    color: aliceblue;
+} 
+.navbar{
+    background-color: ;
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    background-color: black;
+}
+footer {
+  background-color: #b6acac;
+  color: #fff;
+  padding: 40px 0 20px 0;
+  font-family: Arial, sans-serif;
+}
+
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+.footer-logo h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links ul li {
+  margin-bottom: 10px;
+}
+
+.footer-links ul li a {
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.footer-links ul li a:hover {
+  color: #e62e2e; /* TEDx red accent */
+}
+
+.footer-social a {
+  margin-right: 15px;
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.footer-social a:hover {
+  color: #e62e2e;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #aaa;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .footer-container {
+    flex-direction: column;
+    text-align: center;
+  }
+  .footer-social {
+    margin-top: 20px;
+  }
+}
+.navbar{
+    background-color: aqua;
+}
+.nav{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: black;
+   color: black;
+}
